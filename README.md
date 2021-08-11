@@ -9,19 +9,26 @@
 
 ### Next, clone this repository by opening a terminal and typing the following commands:
 
-### • $ cd $HOME  # or any other development directory you prefer
-### • $ git clone https://github.com/Karssido/GDSC-128-APPLICATION-TASK
-### • $ cd Task-1 (Data Visualization and Classification).ipynb
+#### • $ cd $HOME  (or any other development directory you prefer)
+#### • $ git clone https://github.com/Karssido/GDSC-128-APPLICATION-TASK
+#### • $ cd Task-1 (Data Visualization and Classification).ipynb
 
 ##
 
 ## Python & Required Libraries
 ### Of course, you obviously need Python. Python 2 is already preinstalled on most systems nowadays, and sometimes even Python 3. You can check which version(s) you have by typing the following commands:
 
-### • $ python --version   # for Python 2
-### • $ python3 --version  # for Python 3
+#### • $ python --version   # for Python 2
+#### • $ python3 --version  # for Python 3
 
 ### Any Python 3 version should be fine, preferably ≥3.5. If you don't have Python 3, I recommend installing it (Python ≥2.6 should work, but it is deprecated so Python 3 is preferable). 
+
+### Libraries that are required are mentioned as follows:
+#### • Numpy
+#### • Pandas
+#### • Matplotlib
+#### • Seaborn
+#### • HvPlot
 
 ##
 
